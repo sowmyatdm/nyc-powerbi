@@ -11,6 +11,8 @@ df.to_csv("/path_to_output/yellow_tripdata_2022-01.csv",header=True)
 ```
 
 ## Visualization and Analysis with PowerBI
+Open the .pbix file in PowerBI to view the dashboard.
+
 Dashboard built with PowerBI has the following components. 
 
 1. KPIs for Total Distance, Total Amount, Average of Trip Distance. 
