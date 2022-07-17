@@ -11,7 +11,7 @@ df.to_csv("/path_to_output/yellow_tripdata_2022-01.csv",header=True)
 ```
 
 ## Visualization and Analysis with PowerBI
-Open the .pbix file in PowerBI to view the dashboard.
+Open the .pbix file [Power BI Desktop file](https://drive.google.com/file/d/1N0mbuyTMNuO8yA0uhrjLj4dRMOisYK_X/view?usp=sharing) in PowerBI to view the dashboard.
 
 Dashboard built with PowerBI has the following components. 
 
