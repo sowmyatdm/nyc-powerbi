@@ -43,7 +43,8 @@ Dashboard built with PowerBI has the following components.
   6. Amount by payment type. 
      
      
-     Maximum number of passengers paid using Credit card
+     Maximum number of passengers paid using Credit card.
      
      
+ Note that visualizations can be localized to a specific borough and for selected days of the month.
 
